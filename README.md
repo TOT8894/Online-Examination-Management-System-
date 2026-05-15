@@ -228,26 +228,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Student Project**
-- University Final Year Project
-- Course: Object-Oriented Programming
-- Year: 2024
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Inspired by real-world examination systems
-- Built for educational purposes
-
----
 
 **⭐ If you find this project useful, please consider giving it a star!**
 

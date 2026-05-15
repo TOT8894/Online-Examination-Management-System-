@@ -1,0 +1,40 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+exam_system
+exam_system.exe
+
+# Object files
+*.o
+*.obj
+
+# Data files (optional - uncomment if you don't want to track data)
+# questions.txt
+# students.txt
+# results.txt
+
+# IDE specific files
+.vscode/
+.vs/
+*.cbp
+*.layout
+*.depend
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
